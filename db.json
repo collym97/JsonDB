@@ -1,0 +1,27 @@
+{
+  "Estudiantes": [
+    {
+      "id": 1,
+      "Firstname": "luis",
+      "Lastname": "Collymoore",
+      "categoryid": 1
+    }
+  ],
+  "Materias": [
+    {
+      "id": 1,
+      "Lengua española": "Lengua española",
+      "Matematica": "Matemáticas",
+      "Ciencias sociales": "Ciencias sociales",
+      "Ciencias naturales": "Ciencias naturales"
+    }
+  ],
+  "calificaciones": [
+    {
+      "A": 100,
+      "B": 80,
+      "C": 70,
+      "F": 69
+    }
+  ]
+}
